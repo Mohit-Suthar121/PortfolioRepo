@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 First-year B.Tech CSE (AI) student at **SKIT Jaipur**.
+* 🎓 First-year B.Tech CSE student at **SKIT Jaipur**.
 * 💻 Full-stack developer specializing in the **MERN Stack**.
 * 🧠 Solved **250+ problems on LeetCode** using Java.
 * 🚀 Interested in building real-world applications and scalable backend systems.
@@ -74,16 +74,6 @@ A real-time messaging application inspired by WhatsApp.
 * Authentication and chat functionality.
 
 **Tech:** React, Node.js, Express.js, MongoDB, Socket.IO.
-
-#### 📚 SKIT Notes Website
-
-A platform designed to make academic resources accessible to students.
-
-* Organized study materials.
-* Notes upload and download functionality.
-* Responsive user interface.
-
-**Tech:** React, Vite, Tailwind CSS, Cloudinary.
 
 ---
 
