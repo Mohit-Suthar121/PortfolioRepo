@@ -76,19 +76,25 @@ A real-time messaging application inspired by WhatsApp.
 **Tech:** React, Node.js, Express.js, MongoDB, Socket.IO.
 
 ---
-
 ### 🧩 Problem Solving & DSA
 
 <p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://leetcard.jacoblin.cool/Mohit-Suthar121?theme=dark&font=Baloo+Bhai+2&ext=heatmap" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/u/mohit_suthar121/">
+    <img src="https://leetcard.jacoblin.cool/mohit_suthar121?theme=dark&font=Baloo+Bhai+2&ext=heatmap" alt="Mohit's LeetCode Stats" />
   </a>
 </p>
 
-* 250+ problems solved on LeetCode.
-* Primary programming language: **Java**.
-* Practicing problem-solving patterns and optimizing algorithmic solutions.
-* Focus areas: Arrays, Strings, Binary Search, Recursion, Backtracking, Trees, Graphs, Heaps, and Dynamic Programming.
+* 💡 250+ problems solved on LeetCode.
+* ☕ Primary language: Java.
+* 🧠 Practicing algorithmic problem-solving and optimization.
+* 🎯 Focus areas: Arrays, Strings, Binary Search, Recursion, Backtracking, Trees, Graphs, Heaps, and Dynamic Programming.
+
+<p align="center">
+  <a href="https://leetcode.com/u/mohit_suthar121/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
